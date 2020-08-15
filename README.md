@@ -1,3 +1,3 @@
 # Add-A-Pet-To-DB
 
-React App
+Learned Hooks and States by this project
